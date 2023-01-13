@@ -1,3 +1,6 @@
+typedef ResourceFailure<F, T> = _ResourceFailure<F, T>;
+typedef ResourceSuccess<F, T> = _ResourceSuccess<F, T>;
+
 abstract class Resource<F, T> {
   const Resource();
   factory Resource.none() = _ResourceNone;

@@ -1,4 +1,4 @@
-import '../../../participant/domain/chat_participant_failure.dart';
+import '../../../../participant/domain/chat_participant_failure.dart';
 
 typedef RoomCreationFailureInvalidChatParticipant = _RoomCreationFailureInvalidChatParticipant;
 typedef RoomCreationFailureRoomAlreadyExists = _RoomCreationFailureRoomAlreadyExists;

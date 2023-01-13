@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import '../../url/url.dart';
+import '../../../url/url.dart';
 
 part "type.dart";
 

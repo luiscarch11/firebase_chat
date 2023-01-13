@@ -1,6 +1,6 @@
-import '../../../../chat.dart';
-import '../../core/core.dart';
-import '../../rules/rules.dart';
+import '../../../../../chat.dart';
+import '../../../core/core.dart';
+import '../../../rules/rules.dart';
 import 'chat_message_body_failure.dart';
 
 class ChatMessageBody extends ValueObject<ChatMessageBodyFailure, String, ChatMessageBodyValidator> {
